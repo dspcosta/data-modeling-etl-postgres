@@ -1,4 +1,4 @@
-# About the project
+# About
 
 This project was built as part of *Data Modeling with Postgres* by **Udacity** - Data Engineering NanoDegree. 
 
